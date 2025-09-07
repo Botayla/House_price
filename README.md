@@ -12,7 +12,7 @@ The main objective is to explore the dataset, perform feature engineering, apply
 - **Target**: `median_house_value`
 
 ---
-## 🔧 Exploratory Data Analysis
+## 📊 Exploratory Data Analysis
   - Visualize the count plot , pie plot and box plot of categorical columns with the Target .
   - get the mean price of houses based on ocean proximity
   - visualize the histogram plot and box plot for each numerical column to detect skewnesss and outliers.
